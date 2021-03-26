@@ -1,7 +1,7 @@
 const Text = ({text}) => {
     return (
         <p id='text'>
-            " {text} ""
+            " {text} "
         </p>
     )
 }
